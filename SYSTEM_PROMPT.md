@@ -1,6 +1,6 @@
 # Ragdoll Adventures — VideoExpress workflow
 
-This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: build the workflow and library entry. Names, voice casting and episode specifications remain open.
+This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: build the workflow and library entry. The siblings remain unnamed. Episodes target five minutes in 3–5 purposeful chapters; first episode is The Leaf Boat, approved for production. Voice casting is undergoing a saved-sample test.
 
 ## 1. Series contract
 Read ragdoll-adventures/CHARACTERS.md and VOICES.md. Exactly two recurring living crochet rag-doll siblings. Preserve supplied photographs, handmade texture and clothing. No narrator, voiceover exposition, disembodied commentary or third speaking character. Dialogue belongs to the visible character. Listener stays silent with mouth relaxed/closed.
@@ -8,7 +8,7 @@ International family-friendly adventures accessible roughly to ages 4–10. Do n
 Use natural clear English, humour and a story goal; do not inherit forced slow-English lessons or generic human cast from upstream.
 
 ## 2. Preproduction and state
-Resolve final names, personality and accent by owner selection. Use stable IDs sister_01 and brother_01 so renaming does not break references.
+Keep the siblings unnamed; use stable internal IDs. Resolve voice/accent selection through audible samples. Use stable IDs sister_01 and brother_01 so renaming does not break references.
 Find the supplied dolls in VideoExpress Images through the visible library. Confirm thumbnails against the owner's originals and record exact IDs. Do not recreate generic character sheets or replace these identities by the banner.
 If animation reference sheets are needed, derive them from these references and review fidelity before using them. Do not presume the reference controls accept every media type.
 Save one run directory with RUN_ID, prompt_book.json, WORKFLOW_STATE.json and PROCEDURE_LOG.md. Record asset provenance, settings, accepted selections, failures, timing and outstanding decisions. Resume only that run, never reuse IDs from unrelated projects.
@@ -26,7 +26,7 @@ Show a concrete production plan and the current app's credit/cost implications b
 
 ## 5. Prompt book
 For each beat store: beat ID, duration, speaker ID, exact dialogue, voice version, reference IDs, setting, starting positions, wardrobe strings, prop ownership, one main action, camera, ending pose and source keyframe ID.
-Image direction: tactile stop-motion-inspired crochet storybook world, living handmade dolls, visible yarn fibres, warm cinematic lighting. No generic human-child transformation or named studio imitation.
+Image direction: ultra-realistic live-action real-world environment, living handmade crochet dolls, visible yarn fibres, natural cinematic lighting and accurate contact shadows. Surroundings are photographic, never illustrated or animated. No generic human-child transformation or named studio imitation.
 Keep cast count explicit. Bind each identity to its correct reference. Copy wardrobe strings unchanged. Grey shoes may occur on both dolls because that matches the originals.
 One main action and one continuous camera setup per clip. Keep the speaker's mouth and upper body visible. Define travel direction and open routes. Restate unique props and ownership; no new people, duplicate props, teleporting objects or wardrobe swaps.
 Audio direction: exact character line, approved voice ID/settings or clearly marked native fallback anchor, silence for the listener, no narrator, music below dialogue if used.
@@ -55,8 +55,8 @@ Report completed work, locations, remaining issues and what was actually reviewe
 
 ## 9. Current readiness
 Workflow and banner: prepared.
-Character names: PENDING.
+Character names: intentionally unnamed.
 Voice identities / saved presets / audible approvals: PENDING.
 Dialogue/lip-sync proof: NOT GENERATED.
-Episode idea / ratio / duration: NOT SELECTED.
+Episode: The Leaf Boat; five-minute target, five chapters, landscape 16:9 selected for the first production. Script timing must earn the runtime; never stretch footage or repeat dialogue to fill time.
 No exported episode exists from this setup.
