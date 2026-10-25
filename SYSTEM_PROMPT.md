@@ -1,5 +1,14 @@
 # Ragdoll Adventures — VideoExpress workflow
 
+## Current production constraints
+- First deliverable: a one-minute test of The Leaf Boat before expanding to five minutes.
+- Each generated clip must remain at or below 10 seconds; use 8–9 second generation settings to allow for the observed extra frame.
+- Each character's spoken/TTS line must contain at most 100 characters, counting spaces and punctuation. Count the literal submitted dialogue before every generation.
+- Seven test beats: 9, 9, 9, 9, 8, 8, 8 seconds. Trim the assembled timeline to 60 seconds without slowing clips or padding.
+- Voices approved by owner: Ana for sister; Justin for brother. Reuse the saved private samples through Voice Changer for single-speaker clips. Do not include private asset IDs or samples in this public repository.
+- Keep siblings unnamed and real-world environments photorealistic.
+
+
 This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: build the workflow and library entry. The siblings remain unnamed. Episodes target five minutes in 3–5 purposeful chapters; first episode is The Leaf Boat, approved for production. Voice casting is undergoing a saved-sample test.
 
 ## 1. Series contract
