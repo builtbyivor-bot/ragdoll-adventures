@@ -1,16 +1,13 @@
-# First dialogue proof — draft
+# One-minute test status
 
-Purpose: check that the two dolls speak as themselves, using repeatable voices and appropriate lip-sync. Not a production-ready episode.
+Current review project: **The Leaf Boat - Animated Garden Test**.
 
-Working title: The Little Leaf.
-Names are replaced by stable role labels until selected.
-Proposed length: 15–20 seconds, to be confirmed against speech and app capabilities.
-Scene: both siblings on a miniature garden path. Exactly one leaf already visible between them.
+- Approved ongoing style: cinematic 3D animated storybook environment with the original handmade crochet siblings.
+- Unnamed characters; Ana for sister, Justin for brother. Character dialogue only.
+- Seven clips using 9, 9, 9, 9, 8, 8, 8 second generation settings; at most 10 seconds per finished clip.
+- Dialogue lines are at most 100 characters including spaces and punctuation.
+- Editable project saved; internal VideoExpress export measured at 59.93 seconds and 1920×1080.
+- Owner review is pending. This draft is not proof that all action and continuity checks passed.
+- No final video download to the owner's PC before explicit final 100% approval.
 
-1. Sister notices the leaf: "Look! This leaf is shaped like a little boat."
-2. Brother leans to look: "Let's see if it can float."
-3. Sister smiles at him: "Together?"
-4. Brother nods: "Always."
-
-Keep one speaker per beat; the listener remains silent. No water or extra props appear during this proof. A later episode can show their experiment with a basin introduced in its own keyframe.
-Select voices first, then time the actual readings. No proof has been generated.
+The earlier short proof proposal and photographic environment test are superseded. Keep current episode scripts, private source IDs and media in private production state. Follow [CONTINUITY.md](CONTINUITY.md) for subsequent shots and corrections.

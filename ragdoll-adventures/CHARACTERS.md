@@ -17,8 +17,11 @@ Upright short brown yarn hair, turquoise and white striped top with turquoise sl
 Proposed personality: curious, practical, playfully inventive. He listens and helps; he is not always the leader.
 Public name: none.
 
-## Real-world environment
-Ultra-realistic photographic real-world gardens, homes and paths, natural lighting, shadows and believable scale. The dolls retain their handmade crochet identity. Do not turn the surroundings into animation, illustration or a fantasy miniature village.
+## Approved animated environment
+
+Cinematic 3D animated storybook gardens, homes and paths with rounded sculpted scenery, colourful foliage, soft light and coherent shadows/scale. Preserve tangible handmade crochet texture on both dolls. This animated format replaces the earlier photographic real-world surroundings requirement.
+
+Lock one specific environment and its geography for connected scenes. A river stays the same river; no unshown change to a pond, puddle or unrelated stream. Preserve landmarks, flow/travel direction, weather and lighting. See [CONTINUITY.md](CONTINUITY.md) for mandatory motion and join checks.
 
 ## Continuity rules
 Keep the photographs as identity references. A banner is branding, not a replacement character reference. Verify actual media entries and record their IDs before generation. Never identify them only by newest item or filename guess.

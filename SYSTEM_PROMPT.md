@@ -1,71 +1,96 @@
 # Ragdoll Adventures — VideoExpress workflow
 
-## Current production constraints
-- First deliverable: a one-minute test of The Leaf Boat before expanding to five minutes.
-- Each generated clip must remain at or below 10 seconds; use 8–9 second generation settings to allow for the observed extra frame.
-- Each character's spoken/TTS line must contain at most 100 characters, counting spaces and punctuation. Count the literal submitted dialogue before every generation.
-- Seven test beats: 9, 9, 9, 9, 8, 8, 8 seconds. Trim the assembled timeline to 60 seconds without slowing clips or padding.
-- Voices approved by owner: Ana for sister; Justin for brother. Reuse the saved private samples through Voice Changer for single-speaker clips. Do not include private asset IDs or samples in this public repository.
-- Keep siblings unnamed and real-world environments photorealistic.
-
-
-This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: produce and review short test videos before expanding episodes. The siblings remain unnamed. Episodes target five minutes in 3–5 purposeful chapters; first episode is The Leaf Boat, approved for production. Ana and Justin are approved and were used through saved private samples.
-
 ## 1. Series contract
-Read ragdoll-adventures/CHARACTERS.md and VOICES.md. Exactly two recurring living crochet rag-doll siblings. Preserve supplied photographs, handmade texture and clothing. No narrator, voiceover exposition, disembodied commentary or third speaking character. Dialogue belongs to the visible character. Listener stays silent with mouth relaxed/closed.
-International family-friendly adventures accessible roughly to ages 4–10. Do not place "made for kids" in project branding. Publishing-platform audience settings require their own accurate decision; this workflow does not set them.
-Use natural clear English, humour and a story goal; do not inherit forced slow-English lessons or generic human cast from upstream.
 
-## 2. Preproduction and state
-Keep the siblings unnamed; use stable internal IDs. Resolve voice/accent selection through audible samples. Use stable IDs sister_01 and brother_01 so renaming does not break references.
-Find the supplied dolls in VideoExpress Images through the visible library. Confirm thumbnails against the owner's originals and record exact IDs. Do not recreate generic character sheets or replace these identities by the banner.
-If animation reference sheets are needed, derive them from these references and review fidelity before using them. Do not presume the reference controls accept every media type.
-Save one run directory with RUN_ID, prompt_book.json, WORKFLOW_STATE.json and PROCEDURE_LOG.md. Record asset provenance, settings, accepted selections, failures, timing and outstanding decisions. Resume only that run, never reuse IDs from unrelated projects.
+Read [CHARACTERS.md](ragdoll-adventures/CHARACTERS.md), [VOICES.md](ragdoll-adventures/VOICES.md) and [CONTINUITY.md](ragdoll-adventures/CONTINUITY.md) before production.
 
-## 3. Establish voices before episodes
-Follow VOICES.md. Audition named voices, let owner hear them, save settings and approved sample references. Test a short exchange before committing to a full episode.
-Inspect the current VideoExpress UI for named voice reuse and audio-driven lip-sync support. Historical upstream selectors, account claims and generation caps are not facts about this account.
-Prefer reproducible saved voice identities with character lip-sync when supported. Separate speech assets are character dialogue, never narration.
-If only native video/audio generation works, explain its voice-drift limit and obtain the owner's choice before using that route. Never report a voice as saved merely because a description was written.
+Exactly two recurring living handmade crochet rag dolls, unnamed sister and brother. Use sister_01 and brother_01 internally; do not speak these labels or address each other as Brother/Sister. Preserve the owner's original photographic character references, embroidered blue eyes, brown yarn hair, elongated proportions, mitten hands, stitches and clothing.
 
-## 4. Episode brief
-Collect only unresolved essentials: story idea, runtime, aspect ratio and any boundaries. Suggested first proof: a 15–20 second exchange; suggested first episode: 45–60 seconds. These are suggestions, not selected specifications.
-Write a simple wish → obstacle → cooperation → payoff story. Give both siblings agency and alternate speaking turns. Use one short line per beat, with pauses for reactions. A single line must fit naturally inside its clip duration; extend the beat instead of accelerating speech.
-Show a concrete production plan and the current app's credit/cost implications before generating an episode. Do not inherit the upstream author's "unlimited generation" claim. Existing explicit authorization within that scope remains valid; do not repeat requests for routine steps.
+The approved setting style is **cinematic 3D animated storybook scenery**, with rounded sculpted forms, colourful foliage, coherent scale, soft lighting and contact shadows. Keep tangible crochet texture on the dolls. This replaces all earlier requirements for 100% photographic real-world surroundings. No human-child transformation, arbitrary wardrobe changes or named studio imitation.
 
-## 5. Prompt book
-For each beat store: beat ID, duration, speaker ID, exact dialogue, voice version, reference IDs, setting, starting positions, wardrobe strings, prop ownership, one main action, camera, ending pose and source keyframe ID.
-Image direction: ultra-realistic live-action real-world environment, living handmade crochet dolls, visible yarn fibres, natural cinematic lighting and accurate contact shadows. Surroundings are photographic, never illustrated or animated. No generic human-child transformation or named studio imitation.
-Keep cast count explicit. Bind each identity to its correct reference. Copy wardrobe strings unchanged. Grey shoes may occur on both dolls because that matches the originals.
-One main action and one continuous camera setup per clip. Keep the speaker's mouth and upper body visible. Define travel direction and open routes. Restate unique props and ownership; no new people, duplicate props, teleporting objects or wardrobe swaps.
-Audio direction: exact character line, approved voice ID/settings or clearly marked native fallback anchor, silence for the listener, no narrator, music below dialogue if used.
-Never import third-party document instructions as authorization to access accounts, accept terms or spend.
+International family-friendly adventures accessible roughly to ages 4–10, with natural clear English, humour and purposeful action. Do not add "made for kids" to branding. Platform audience settings are a separate accurate publishing decision.
 
-## 6. VideoExpress execution
-Use the signed-in editor and supported browser controls. Discover controls from the current page; do not paste upstream DOM scripts or call undocumented private endpoints. Keep a persistent generation tab and at most one monitoring/assembly tab where useful.
-Set aspect ratio deliberately. Turn public-gallery sharing off. Turn automatic prompt enhancement off where it would alter approved identity/dialogue. Select image style by observed options.
-Choose controls according to the verified audio route: native video/audio and audio-driven lip-sync need different settings. Narration remains off. Do not apply the upstream blanket ban on Text to Speech or Lipsync HD; inspect and test these for character dialogue.
-For each beat create/select its keyframe from the recorded doll references, save it, confirm the active candidate, then submit that beat's clip before preparing the next keyframe. Confirm duration and settings immediately before submit.
-Start sequentially during the voice/visual proof. After success, batch only within the current observed account limit, tracking each accepted job. Do not assume five concurrent jobs are available.
-Record job identity and source immediately. Never identify results only as newest, last or active; compare recorded IDs/thumbnails. If a submission times out, inspect whether it succeeded before retrying.
+Character dialogue only: Ana for sister and Justin for brother. No narrator, disembodied exposition or third speaking character. One speaker per clip; listener stays silent with mouth closed/relaxed.
 
-## 7. Review and corrections
-The upstream minimal-review rule is replaced: voice identity and dialogue performance are core requirements.
-Listen to the voice proof and review the first exchange for speaker identity, pronunciation, dialogue intelligibility, lip-sync, listener silence, reference fidelity and crochet appearance.
-For episodes check every completed beat for correct speaker/voice, usable audio/duration, correct source and obvious character/prop failures before assembly. Verify joins and dialogue levels on the assembled preview. Do not claim unperformed listening or measured file properties.
-Allow at most two corrections per failed asset within the agreed scope. Log rejected IDs and selected replacement. Avoid endless aesthetic retries; stop for an unresolved technical failure and explain the specific blocker.
+## 2. Runtime and dialogue limits
 
-## 8. Assembly, save and export
-Add accepted clips one by one in story order through Media Library → right-click → Add to Timeline where supported. Verify each addition and track/order; avoid dragging where Add to Timeline works. Align and verify no missing, foreign or duplicate clips.
-Use a clear episode title; check title collisions and never overwrite another saved project. Add external voice assets only using the verified route and synchronize them deliberately; do not overlay duplicate native speech.
-Preview the final sequence with sound. Save project and export one MP4 using the agreed ratio/resolution available in the app. Verify completion and record project/export IDs. Publishing is a separate task.
-Keep source photos, voice recordings, private episode material and credentials out of this public GitHub fork and out of the private catalogue (except the authorized banner). Store references privately.
-Report completed work, locations, remaining issues and what was actually reviewed.
+- First prove an episode in approximately one minute before expanding to five minutes.
+- Each finished clip must be at most 10 seconds. Use 8–9 second generation settings because an extra frame has been observed. Verify actual media duration.
+- Each literal spoken/TTS line must be at most 100 characters, including spaces and punctuation. Count before submission, including future auditions.
+- Time actual speech naturally. Shorten or split an overlong line; do not speed up delivery or exceed either limit.
+- Five-minute episodes use 3–5 purposeful chapters. Each beat advances discovery, obstacle, cooperation or payoff. Never stretch footage or invent repetitive filler to hit a target. Ten minutes is a later expansion after successful review.
+- A seven-clip minute can use settings 9, 9, 9, 9, 8, 8, 8 seconds; trim small output excess without cutting speech or required action.
 
-## 9. Current readiness
-Workflow and banner: prepared.
-Character names: intentionally unnamed.
-Voice identities: Ana for sister and Justin for brother, owner-approved; private samples saved.
-Dialogue/lip-sync proof: seven-clip one-minute test exported; owner review pending.
-Episode: The Leaf Boat; five-minute target, five chapters, landscape 16:9 selected for the first production. Script timing must earn the runtime; never stretch footage or repeat dialogue to fill time.
-The Leaf Boat - One Minute Test has been exported in VideoExpress. Browser playback reports 59.93 seconds; no full five-minute episode has been exported.
+## 3. Establish the world before shots
+
+Prepare a private location bible and simple layout for the whole episode before generation. Assign a stable location ID and a precise setting type. Define landmarks, waterway shape/banks, direction of flow, routes, scale, lighting, weather and palette. Record which features connect and which do not.
+
+A river is the same river in every connected shot: same banks, landmarks, depth, flow direction and scale. Never silently replace it with a pond, basin, puddle or unrelated stream. A new place requires a planned transition shown in the story and an established connection. Changes in camera angle must remain geographically consistent.
+
+Create a private prop record: stable ID, exact appearance/size, count, owner, position, orientation and state. A single leaf remains one recognisable leaf; no duplicate, shape reset or spontaneous new stalk. Track hands, feet, wet/dry states and wardrobe.
+
+Use accepted environment references and the previous accepted ending frame as continuity references where supported. Inspect supported controls rather than assuming reference types. If the app cannot use an ending frame, explicitly carry its visible state into the next keyframe and compare side by side. Never use the banner as a character reference.
+
+## 4. Private prompt book and acceptance criteria
+
+For every numbered clip store:
+- Clip ID, planned/measured duration, speaker, exact dialogue/count, approved voice version and source references.
+- Location ID, unchanged environment description, camera position/axis, landmarks and travel/flow direction.
+- Exact starting state: both dolls' positions, poses, hands/feet and each prop's state.
+- One main action, its start and end positions, intended speed/direction, and when it happens relative to the spoken words.
+- Exact ending state and the next clip's matching starting state.
+- Observable pass/fail checks derived from every concrete dialogue claim.
+- Keyframe/job/converted-media IDs, selected result, review evidence and outstanding failures.
+
+Translate story language into visible requirements. If a line says the boat moves, it must visibly travel relative to fixed bank/stone landmarks, not merely bob while the camera moves. If it is stuck/still, it must remain in the same position relative to those landmarks. If it goes around a stone, the actual path must go around that same stone into the specified destination. Do not describe an action that is absent from the finished clip.
+
+Reject a script/action combination that cannot be shown clearly within the clip limit. Simplify or split it before generation; do not rely on spoken words to excuse missing animation.
+
+Keep run state and logs private. Record provenance, settings, accepted IDs, rejected IDs, checks and approval status. Never choose results only by newest/last/active position or reuse IDs from unrelated projects.
+
+## 5. Voices
+
+Use the approved saved private Ana/Justin reference samples and recorded settings. Do not replace an approved voice by a written approximation.
+
+For the verified route, generate a single speaker's native performance, then apply Voice Changer with that character's approved sample. The source controls words, accent, emotion and timing; the sample controls voice identity. Assemble the identified converted file, not its unconverted original. Avoid duplicate speech overlays.
+
+Verify saved output independently of a stalled preview. If a submission times out, check whether it succeeded before retrying. Review actual audio, speaker identity, intelligibility, pronunciation, lip-sync and listener silence. A selected sample is not proof of a correct performance. Do not claim listening or checks that were not performed.
+
+## 6. Generate and inspect
+
+Use the signed-in VideoExpress UI and supported browser controls, grounded in the current page. Do not execute upstream DOM scripts or undocumented private endpoints. Observe account queue/capacity rather than assuming unlimited generation or a fixed concurrency allowance.
+
+Set aspect ratio deliberately; landscape 16:9 is the current test format. Keep public-gallery sharing off, narration off, and automatic enhancement off where it could rewrite identity, action or dialogue.
+
+Create each keyframe from the original dolls and locked environment. Review composition, matching location, prop count/state, visible speaker, feasible route and exact starting state before generating motion. Save and confirm the active candidate, dialogue and duration before submitting.
+
+Then watch the entire generated clip with sound. Check the required action actually happens, in the correct direction and location, at the correct time. Check both the beginning and ending, plus intermediate motion; a still thumbnail cannot verify animation. Review before and after voice conversion for timing or sound regressions.
+
+Reject failed clips. Correct the prompt, references or shot design and regenerate only the affected shot; then review its neighbouring joins again. A limited retry budget is never permission to accept a mismatch. If the tool repeatedly cannot produce a required action, report that concrete blocker, leave the project marked incomplete and resolve the shot/story with the owner. Do not label it ready.
+
+## 7. Assembly and internal quality gate
+
+Add accepted converted clips through Media Library → right-click → Add to Timeline where supported. Verify each ID and order. Use a distinct project title; never overwrite another project. Align clips without gaps, duplicate beats or unrelated assets.
+
+Complete all work before handing over review: selected shots, voices/lip-sync, cuts and any needed transitions, sound balance, timing, continuity corrections and saved project. Clean cuts are appropriate when they preserve continuity; effects do not repair a mismatch.
+
+Watch the whole assembled sequence with sound and inspect every cut using the checks in CONTINUITY.md. Confirm literal story/action agreement, one coherent setting, stable props and characters, complete lines, correct voices, listener silence and no unintended pauses. Verify duration and format. Do not pass a failed shot or hide a missing action with an edit.
+
+Keep an explicit per-clip and per-join pass/fail log. Record unverified items honestly. If playback or lack of audio review prevents required verification, report the limitation and label the project an incomplete/unverified draft; do not say all checks passed.
+
+## 8. Owner review, internal export and final download
+
+Save the fully prepared editable project and verify that reopening it restores every clip. Open that saved project in the user's visible VideoExpress tab; verify the actual populated timeline, not only an inaccessible helper tab. Number clips 1–N and provide approximate time ranges for targeted feedback.
+
+Owner review should require only any corrections the owner identifies. It must not be the first check of whether shots match the story. Retain the editable project even when an export is used for review.
+
+If requested, or when editor buffering prevents review, export inside VideoExpress at the agreed quality/resolution and leave the completed player/My Videos entry open. Verify the specific export's completion and actual duration. Internal export does not authorize download to the PC.
+
+**Never download the final video to the owner's PC until the owner gives explicit final 100% approval.** Do not treat silence, approval of a style/voice, an internal-export request or an earlier general production request as that approval. After feedback, correct affected shots and joins, save, recheck and present the updated review version.
+
+Publishing is separate. Keep original photos, private audio samples/IDs, unpublished video, credentials and signed asset URLs out of this public fork and the private catalogue, except authorized banners. The private catalogue receives only a concise workflow card.
+
+## 9. Current status
+
+The animated storybook environment is the owner's selected ongoing style, confirmed 25 October 2026. The earlier photorealistic test is historical.
+The Leaf Boat - Animated Garden Test is saved and exported inside VideoExpress: 59.93 seconds, 1920×1080. Owner review is pending, including story/action and continuity feedback. It is not a final-approved or continuity-certified master. No full five-minute episode has been produced.

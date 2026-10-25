@@ -19,4 +19,4 @@ Approved reference audio samples are saved privately in VideoExpress My AI Audio
 
 ## Current status
 
-The seven-clip one-minute Leaf Boat test was voice-matched and exported. Owner review is pending. No full five-minute episode has been exported.
+The seven-clip animated Leaf Boat test was voice-matched, saved as an editable project and exported inside VideoExpress. Owner review is pending. No PC download is authorized before explicit final 100% approval. No full five-minute episode has been exported. Verify that visible action, speech timing and lip-sync agree in every completed clip; see [CONTINUITY.md](CONTINUITY.md).
