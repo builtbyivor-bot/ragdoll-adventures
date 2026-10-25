@@ -1,37 +1,22 @@
-# Voice setup and register
+# Approved character voices
 
-Status: NOT SELECTED / NOT SAVED IN VIDEOEXPRESS.
-No audio has been generated or approved.
+Owner approved **Ana for sister** and **Justin for brother** on 25 October 2026.
 
-## Desired direction
-Internationally understandable conversational English; light accent to be chosen by listening. Youthful, warm, natural character performances. Avoid baby talk, exaggerated squeaks, announcer cadence and narration.
-Sister: bright, curious, expressive, gentle.
-Brother: warm, lightly playful, a slightly lower contrasting register.
-These are audition directions, not established voices.
+Both are selectable voices in VideoExpress Text to Speech, using English (United States), speed 1 and pitch 0 for the approved audition samples. They are fictional character performances, not recordings of real children.
 
-## What is verified
-On 25 October 2026 the signed-in VideoExpress Text to Speech panel displayed a language selector, named voice selector, Demo, Speed, Pitch, Emotions, script text and Import Speech. Default displayed English (United States) / Andrew Multilingual; this default is NOT a casting recommendation.
-Saving a named custom preset, account entitlements, audio reuse and compatibility with two-character Lipsync HD have not been verified.
+Approved reference audio samples are saved privately in VideoExpress My AI Audio and backed up in the owner's local project outputs. Exact private media identifiers are kept in the local production state, not this public repository.
 
-## Audition procedure
-1. Confirm final names, language/accent direction and the audition scope.
-2. Inspect available voice choices and use built-in demos first. Compare at least two suitable candidates per character where available.
-3. Use the same lines for a fair comparison, recording provider, exact displayed voice name/ID, language, speed, pitch and emotion. Keep normal speed and neutral emotion initially.
-4. Present audible samples for the owner to select. Descriptions alone cannot establish a voice.
-5. Save chosen samples in VideoExpress media or private storage. Record exact asset IDs and settings in the private voice register. Use stable names RA_sister_01_voice_v1 and RA_brother_01_voice_v1 where the app supports naming. If no reusable preset exists, document that and preserve exact settings plus a reference audio sample.
-6. Test one short dialogue exchange and verify correct speaker, listener silence, visible mouth motion, timing and voice identity. Check that a selected voice can actually drive character lip-sync before choosing this production route.
-7. Mark voices APPROVED only after listening and approval. Freeze versioned settings and reuse them for every episode.
+## Reuse per episode
 
-## Production routes
-Preferred when supported: generate each character's dialogue using the same selected voice/settings, then use a verified audio-driven character lip-sync path. A Text to Speech panel is a tool for character lines, not permission for a narrator.
-Fallback: native video/audio prompts can describe two voices, but these are not saved synthesizer identities and may drift. Use this only after the owner accepts that limitation. Do not silently switch routes or call prompt text a saved voice.
+1. Keep one speaker per generated clip.
+2. Count the literal spoken/TTS line: maximum 100 characters, including spaces and punctuation. This limit applies to future auditions too.
+3. Generate at 8–9 seconds when a 10-second ceiling applies; observe the app's extra output frame and verify actual media duration.
+4. Generate the visible character's line with appropriate natural timing and listener silence.
+5. Use Voice Changer with the correct approved private audio sample. The app describes the sample as controlling voice identity, while the original performance controls words, accent, emotion and pacing.
+6. Identify the converted result by its recorded file and media ID; do not take the newest unrelated asset or accidentally assemble the original unconverted clip.
+7. Verify that conversion created a saved result. A stalled preview can remain on screen even after the converted asset is saved; do not submit duplicates merely because the preview spins.
+8. Review intelligibility, speaker identity, pronunciation, listener silence and lip-sync in the completed test. A selected sample does not guarantee perfect performance.
 
-## Private register template
-For sister_01 and brother_01 record: final name, approval date, provider/tool, exact voice name and ID if exposed, locale, speed, pitch, emotion, reusable preset ID if available, reference audio asset ID, test clip ID, version and owner feedback.
-Keep credentials and private audio outside this public repository.
+## Current status
 
-## Audition lines
-Sister: "Wait, I have an idea. What if we try it together?"
-Brother: "That might work! I'll hold this while you have a look."
-Sister: "We did it! Now, where shall we go next?"
-Brother: "Somewhere new. But let's take our little map."
+The seven-clip one-minute Leaf Boat test was voice-matched and exported. Owner review is pending. No full five-minute episode has been exported.

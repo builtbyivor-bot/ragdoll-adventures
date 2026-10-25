@@ -9,7 +9,7 @@
 - Keep siblings unnamed and real-world environments photorealistic.
 
 
-This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: build the workflow and library entry. The siblings remain unnamed. Episodes target five minutes in 3–5 purposeful chapters; first episode is The Leaf Boat, approved for production. Voice casting is undergoing a saved-sample test.
+This is an adapted production guide, not evidence that a video run or spending has been authorized. Current task: produce and review short test videos before expanding episodes. The siblings remain unnamed. Episodes target five minutes in 3–5 purposeful chapters; first episode is The Leaf Boat, approved for production. Ana and Justin are approved and were used through saved private samples.
 
 ## 1. Series contract
 Read ragdoll-adventures/CHARACTERS.md and VOICES.md. Exactly two recurring living crochet rag-doll siblings. Preserve supplied photographs, handmade texture and clothing. No narrator, voiceover exposition, disembodied commentary or third speaking character. Dialogue belongs to the visible character. Listener stays silent with mouth relaxed/closed.
@@ -65,7 +65,7 @@ Report completed work, locations, remaining issues and what was actually reviewe
 ## 9. Current readiness
 Workflow and banner: prepared.
 Character names: intentionally unnamed.
-Voice identities / saved presets / audible approvals: PENDING.
-Dialogue/lip-sync proof: NOT GENERATED.
+Voice identities: Ana for sister and Justin for brother, owner-approved; private samples saved.
+Dialogue/lip-sync proof: seven-clip one-minute test exported; owner review pending.
 Episode: The Leaf Boat; five-minute target, five chapters, landscape 16:9 selected for the first production. Script timing must earn the runtime; never stretch footage or repeat dialogue to fill time.
-No exported episode exists from this setup.
+The Leaf Boat - One Minute Test has been exported in VideoExpress. Browser playback reports 59.93 seconds; no full five-minute episode has been exported.
