@@ -1,0 +1,101 @@
+{
+  "run_id": "",
+  "workflow_commit": "",
+  "style_lock_version": 1,
+  "style_reference": "The Leaf Boat - Animated Garden Test",
+  "story_locked": false,
+  "target_seconds": 35,
+  "runtime_tolerance_seconds": 0.5,
+  "reference_inspection": {
+    "status": "pending",
+    "observation": "",
+    "evidence": ""
+  },
+  "shots": [
+    {
+      "id": "01",
+      "planned_seconds": 7,
+      "dialogue": "",
+      "dialogue_characters": 0,
+      "speaker": "sister",
+      "voice": "Ana",
+      "story_event": "",
+      "location_id": "",
+      "composition": "",
+      "start_state": "",
+      "action": "",
+      "end_state": "",
+      "action_timing": "",
+      "cut_reason": "",
+      "causal_action": false,
+      "measured_seconds": null,
+      "converted_asset": null,
+      "checks": {
+        "style": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        },
+        "character_finish": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        },
+        "literal_action": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        },
+        "continuity": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        },
+        "pacing": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        },
+        "audio": {
+          "status": "pending",
+          "observation": "",
+          "evidence": ""
+        }
+      }
+    }
+  ],
+  "joins": [],
+  "actual_seconds": null,
+  "film_checks": {
+    "visual_story": {
+      "status": "pending",
+      "observation": "",
+      "evidence": ""
+    },
+    "pacing": {
+      "status": "pending",
+      "observation": "",
+      "evidence": ""
+    },
+    "audio": {
+      "status": "pending",
+      "observation": "",
+      "evidence": ""
+    },
+    "timeline_reopened": {
+      "status": "pending",
+      "observation": "",
+      "evidence": ""
+    },
+    "final_playback": {
+      "status": "pending",
+      "observation": "",
+      "evidence": ""
+    }
+  },
+  "owner_final_approval": {
+    "approved": false,
+    "statement": "",
+    "recorded_at": ""
+  }
+}

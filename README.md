@@ -2,31 +2,39 @@
 
 ![Ragdoll Adventures](ragdoll-adventures/assets/banner.png)
 
-Two unnamed handmade crochet rag-doll siblings share warm adventures through their own dialogue in a **cinematic 3D animated storybook environment**.
+Two unnamed handmade crochet siblings share animated adventures through their own dialogue: Ana for sister, Justin for brother.
 
-**Approved series style, 25 October 2026:** animated gardens and other coherent storybook settings, with the original dolls' crochet texture, embroidered faces, proportions and clothing preserved. This replaces the previous photographic real-world environment requirement.
+## Approved reference
 
-## Production format
+**The Leaf Boat - Animated Garden Test** defines the approved animation style, soft character finish and varied visual storytelling. Its individual scenery/action continuity still needs correction. Preserve its look while fixing those details.
 
-- Character dialogue only; no narrator. Sister uses Ana and brother uses Justin.
-- Each spoken/TTS line: **at most 100 characters including spaces and punctuation**.
-- Each finished clip: **at most 10 seconds**; use 8–9 second generation settings and verify actual duration.
-- Start with a one-minute test. Longer episodes target five minutes in 3–5 purposeful chapters; expand only after owner review. No stretched footage, repetitive dialogue or padding.
-- **The visible action must match the story literally.** Moving means visibly moving; still means stationary. Review actual animation and sound, not just keyframes.
-- **One continuous world:** the same river stays the same river across shots. Preserve geography, flow direction, scale, weather, lighting, characters and unique props. Never substitute a pond, puddle or different waterway without a planned, visible story transition.
-- Complete all production work and internal checks before offering owner review. Save an editable project with numbered clips. Export inside VideoExpress for playback when requested or when editor buffering prevents review.
-- **Download to the owner's PC only after explicit final 100% approval.** Internal export is not download approval.
+**The Leaf Boat - Continuity Revision is rejected.** Its more realistic scenery, rugged character finish, repeated fixed composition and static story are not the series template. Earlier photorealistic directions are superseded. See the [style lock](ragdoll-adventures/STYLE_LOCK.md).
 
-The animated one-minute test, *The Leaf Boat - Animated Garden Test*, is saved and exported inside the owner's VideoExpress account. Its measured export runtime is 59.93 seconds at 1920×1080. Owner review remains pending; it is not a continuity-approved master. No full five-minute episode has been produced.
+## Video factory
 
-## Workflow files
+1. Plan a visible beginning, complication and payoff, with purposeful action and varied shots in a mapped location.
+2. Lock the approved look, character identities, voices, geography and props before generation.
+3. Check keyframes, actual motion and processed audio. Reject failures without rewriting the story or changing the style to excuse them.
+4. Cut tightly around speech/action, recheck every join, save/reopen the populated editable timeline and inspect the internal export when needed.
+5. Present owner review only after required checks pass. Download video to the PC only after explicit final 100% approval.
 
-[Operating workflow](SYSTEM_PROMPT.md) · [Continuity and action checks](ragdoll-adventures/CONTINUITY.md) · [Character Bible](ragdoll-adventures/CHARACTERS.md) · [Voice Setup](ragdoll-adventures/VOICES.md) · [Test status](ragdoll-adventures/PILOT.md)
+Every finished clip is **≤10 seconds**. Every literal spoken/TTS line is **≤100 characters including spaces and punctuation**. No narrator, padding, stretched footage or unexplained quiet holds. A coherent location allows different camera angles and purposeful character movement.
 
-All series assets live under [ragdoll-adventures/](ragdoll-adventures/). Source photographs, private voice references and unpublished videos remain in the owner's account or private storage. Banners are branding, never replacement character references.
+**Current milestone: write a 35-second proof after updating this workflow.** The factory is not yet validated for unattended production. Five-minute episodes follow a successful short production/review cycle, using 3–5 purposeful chapters.
+
+## Workbook and checks
+
+- [Operating workflow](SYSTEM_PROMPT.md)
+- [Approved visual and storytelling lock](ragdoll-adventures/STYLE_LOCK.md)
+- [Factory stages, cutting rules and acceptance gates](ragdoll-adventures/FACTORY.md)
+- [Continuity and literal action checks](ragdoll-adventures/CONTINUITY.md)
+- [Character Bible](ragdoll-adventures/CHARACTERS.md) · [Voice Setup](ragdoll-adventures/VOICES.md) · [Proof status](ragdoll-adventures/PILOT.md)
+- [Private run-record template](templates/episode.json) · [Record validator](tools/validate_episode.py)
+
+The validator blocks invalid numeric limits and missing review evidence; it does not inspect pixels or listen to audio. Actual media review remains required. Keep filled run records, source photographs, voice samples/IDs and unpublished media private. Banners are branding, never replacement production references.
 
 [Back to Ivor's private Workflow Library](https://github.com/builtbyivor-bot/workflow-library)
 
 ## Origin
 
-Adapted from [ai-playbooks/slow_english_learning_videos](https://github.com/ai-playbooks/slow_english_learning_videos), upstream commit 5657b8e785f4e1fe722565c83349a6abf301dc66. Upstream history is retained. Current owner-approved requirements take precedence over the source workflow's generic characters, narration, scenery and review shortcuts.
+Adapted from [ai-playbooks/slow_english_learning_videos](https://github.com/ai-playbooks/slow_english_learning_videos), upstream commit 5657b8e785f4e1fe722565c83349a6abf301dc66. Upstream history is retained. Current owner requirements take precedence over generic source characters, narration, scenery and review shortcuts.

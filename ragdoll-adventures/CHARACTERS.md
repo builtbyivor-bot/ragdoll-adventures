@@ -19,7 +19,7 @@ Public name: none.
 
 ## Approved animated environment
 
-Cinematic 3D animated storybook gardens, homes and paths with rounded sculpted scenery, colourful foliage, soft light and coherent shadows/scale. Preserve tangible handmade crochet texture on both dolls. This animated format replaces the earlier photographic real-world surroundings requirement.
+Cinematic 3D animated storybook gardens, homes and paths with rounded sculpted scenery, colourful foliage, soft light and coherent shadows/scale. Match the softer animated crochet/material finish in The Leaf Boat - Animated Garden Test while preserving the original dolls' identity. Do not exaggerate rugged fibres, distressed yarn or photorealistic surface detail. The later Continuity Revision is rejected; see [STYLE_LOCK.md](STYLE_LOCK.md). This animated format replaces the earlier photographic real-world surroundings requirement.
 
 Lock one specific environment and its geography for connected scenes. A river stays the same river; no unshown change to a pond, puddle or unrelated stream. Preserve landmarks, flow/travel direction, weather and lighting. See [CONTINUITY.md](CONTINUITY.md) for mandatory motion and join checks.
 

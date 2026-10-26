@@ -2,6 +2,10 @@
 
 These are acceptance gates for every episode, including revisions. A plausible prompt or good still image does not prove a correct video.
 
+## Style, visual story and pacing are also mandatory
+
+Read [STYLE_LOCK.md](STYLE_LOCK.md) and [FACTORY.md](FACTORY.md). Preserve The Leaf Boat - Animated Garden Test's approved animation and soft character finish. The rejected Continuity Revision is not a reference. Do not solve geography by freezing the camera/characters across the film. Use purposeful varied shots within the same mapped world. Every shot must add visible action or a motivated reaction; dialogue alone is insufficient. Reject rugged/photorealistic drift, unexplained quiet holds and padding. Failed required motion stays failed; do not rewrite the story to excuse it.
+
 ## Before generation
 
 1. Lock a location ID and type, environment references, layout, landmarks, scale, lighting/weather and camera axis. Map the route of the story's action.

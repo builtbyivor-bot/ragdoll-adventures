@@ -1,13 +1,19 @@
-# One-minute test status
+# Short proof status
 
-Current review project: **The Leaf Boat - Animated Garden Test**.
+Updated 26 October 2026.
 
-- Approved ongoing style: cinematic 3D animated storybook environment with the original handmade crochet siblings.
-- Unnamed characters; Ana for sister, Justin for brother. Character dialogue only.
-- Seven clips using 9, 9, 9, 9, 8, 8, 8 second generation settings; at most 10 seconds per finished clip.
-- Dialogue lines are at most 100 characters including spaces and punctuation.
-- Editable project saved; internal VideoExpress export measured at 59.93 seconds and 1920×1080.
-- Owner review is pending. This draft is not proof that all action and continuity checks passed.
-- No final video download to the owner's PC before explicit final 100% approval.
+## Reference and rejected work
 
-The earlier short proof proposal and photographic environment test are superseded. Keep current episode scripts, private source IDs and media in private production state. Follow [CONTINUITY.md](CONTINUITY.md) for subsequent shots and corrections.
+- **The Leaf Boat - Animated Garden Test:** owner-approved animation, softer character appearance and use of multiple scenes for visual storytelling. Scenery, literal action continuity and editing still require checks/correction; this is not blanket final-video approval.
+- **The Leaf Boat - Continuity Revision:** rejected by owner. More realistic environments, rugged dolls, static repeated staging, weak visual story and quiet idle stretches must not be carried forward.
+- Earlier photographic-environment tests are historical.
+
+## Current milestone
+
+Update the GitHub workbook first, then write a **35-second test**. The written test must contain a visible story, purposeful actions, motivated framing changes and natural dialogue. It must not be generated merely because the written plan passes numeric checks.
+
+Use the approved unnamed siblings and saved Ana/Justin voices. Each finished clip ≤10 seconds; every literal spoken line ≤100 characters including spaces/punctuation. Keep actual scripts, reference media/timecodes, voice and generated-asset IDs and filled production records private.
+
+Inspect the approved animated reference before generation. Follow STYLE_LOCK.md, FACTORY.md and CONTINUITY.md, record all evidence honestly, and complete production/editing/internal reviews before owner handover. Unknown audio or playback checks block a ready claim. Save the populated editable timeline and internal export for review. No PC video download without explicit final 100% approval.
+
+The factory has not yet passed its short proof cycle; five-minute production remains a later milestone.

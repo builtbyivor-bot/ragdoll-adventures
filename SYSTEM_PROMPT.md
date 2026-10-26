@@ -2,24 +2,28 @@
 
 ## 1. Series contract
 
-Read [CHARACTERS.md](ragdoll-adventures/CHARACTERS.md), [VOICES.md](ragdoll-adventures/VOICES.md) and [CONTINUITY.md](ragdoll-adventures/CONTINUITY.md) before production.
+Read [STYLE_LOCK.md](ragdoll-adventures/STYLE_LOCK.md) and [FACTORY.md](ragdoll-adventures/FACTORY.md), then [CHARACTERS.md](ragdoll-adventures/CHARACTERS.md), [VOICES.md](ragdoll-adventures/VOICES.md) and [CONTINUITY.md](ragdoll-adventures/CONTINUITY.md) before production.
 
 Exactly two recurring living handmade crochet rag dolls, unnamed sister and brother. Use sister_01 and brother_01 internally; do not speak these labels or address each other as Brother/Sister. Preserve the owner's original photographic character references, embroidered blue eyes, brown yarn hair, elongated proportions, mitten hands, stitches and clothing.
 
-The approved setting style is **cinematic 3D animated storybook scenery**, with rounded sculpted forms, colourful foliage, coherent scale, soft lighting and contact shadows. Keep tangible crochet texture on the dolls. This replaces all earlier requirements for 100% photographic real-world surroundings. No human-child transformation, arbitrary wardrobe changes or named studio imitation.
+The approved setting style is **cinematic 3D animated storybook scenery**, with rounded sculpted forms, colourful foliage, coherent scale, soft lighting and contact shadows. Match the approved test's soft animated crochet finish on the dolls; do not exaggerate coarse fibres, rugged wear or photorealism. This replaces all earlier requirements for 100% photographic real-world surroundings. No human-child transformation, arbitrary wardrobe changes or named studio imitation.
 
 International family-friendly adventures accessible roughly to ages 4–10, with natural clear English, humour and purposeful action. Do not add "made for kids" to branding. Platform audience settings are a separate accurate publishing decision.
 
 Character dialogue only: Ana for sister and Justin for brother. No narrator, disembodied exposition or third speaking character. One speaker per clip; listener stays silent with mouth closed/relaxed.
 
+**Approved production reference: The Leaf Boat - Animated Garden Test.** Inspect it before generation and record representative private frame/timecode evidence. It defines animation, softened character finish and varied visual storytelling; continuity errors within it still need correction. **The Leaf Boat - Continuity Revision is rejected** and must never seed new work. A generic "cinematic 3D" description or newer asset is not a replacement reference.
+
+Continuity means coherent geography, identities and state across varied shots, not a single fixed camera or dolls sitting still. Write the visible story before dialogue: every shot needs a physical event or motivated emotional payoff. Do not rewrite locked story intent or change style to make a failed render usable.
+
 ## 2. Runtime and dialogue limits
 
-- First prove an episode in approximately one minute before expanding to five minutes.
-- Each finished clip must be at most 10 seconds. Use 8–9 second generation settings because an extra frame has been observed. Verify actual media duration.
+- Current instruction: write a 35-second proof after the GitHub workflow update. Prove the short production/review cycle before expanding to five minutes.
+- Each finished clip must be at most 10 seconds. Choose a setting that fits the action, normally 3–9 seconds, leaving room for an observed extra output frame. Verify actual media duration.
 - Each literal spoken/TTS line must be at most 100 characters, including spaces and punctuation. Count before submission, including future auditions.
 - Time actual speech naturally. Shorten or split an overlong line; do not speed up delivery or exceed either limit.
 - Five-minute episodes use 3–5 purposeful chapters. Each beat advances discovery, obstacle, cooperation or payoff. Never stretch footage or invent repetitive filler to hit a target. Ten minutes is a later expansion after successful review.
-- A seven-clip minute can use settings 9, 9, 9, 9, 8, 8, 8 seconds; trim small output excess without cutting speech or required action.
+- Budget the current proof to 35 seconds across purposeful shots. Do not force every shot to the same length. Cut idle heads/tails; preserve natural speech, anticipation and meaningful reactions. Each pause needs a story reason.
 
 ## 3. Establish the world before shots
 
@@ -68,9 +72,13 @@ Then watch the entire generated clip with sound. Check the required action actua
 
 Reject failed clips. Correct the prompt, references or shot design and regenerate only the affected shot; then review its neighbouring joins again. A limited retry budget is never permission to accept a mismatch. If the tool repeatedly cannot produce a required action, report that concrete blocker, leave the project marked incomplete and resolve the shot/story with the owner. Do not label it ready.
 
+Run the private record through tools/validate_episode.py at each stage as described in FACTORY.md. Missing or unknown evidence blocks readiness. The tool validates recorded structure/limits only; it cannot certify animation or audio.
+
 ## 7. Assembly and internal quality gate
 
 Add accepted converted clips through Media Library → right-click → Add to Timeline where supported. Verify each ID and order. Use a distinct project title; never overwrite another project. Align clips without gaps, duplicate beats or unrelated assets.
+
+Reject a sequence whose story consists only of dialogue or whose repeated static framing substitutes for action. Compare the overall visual story and character finish to the approved animated test, not only isolated prop positions. Remove unexplained quiet space and frozen waiting; never pad to target runtime.
 
 Complete all work before handing over review: selected shots, voices/lip-sync, cuts and any needed transitions, sound balance, timing, continuity corrections and saved project. Clean cuts are appropriate when they preserve continuity; effects do not repair a mismatch.
 
@@ -92,5 +100,6 @@ Publishing is separate. Keep original photos, private audio samples/IDs, unpubli
 
 ## 9. Current status
 
-The animated storybook environment is the owner's selected ongoing style, confirmed 25 October 2026. The earlier photorealistic test is historical.
-The Leaf Boat - Animated Garden Test is saved and exported inside VideoExpress: 59.93 seconds, 1920×1080. Owner review is pending, including story/action and continuity feedback. It is not a final-approved or continuity-certified master. No full five-minute episode has been produced.
+Owner feedback on 26 October 2026 confirms The Leaf Boat - Animated Garden Test as the approved animation, soft character-finish and visual-storytelling reference, while requiring better scenery/action continuity and cutting. The later Continuity Revision is rejected for realism, rugged dolls, static staging and weak visual story.
+
+The next milestone is a written 35-second proof after this GitHub workbook update. Neither a five-minute episode nor a validated unattended factory is complete. See PILOT.md for the current proof status. Do not claim that written safeguards alone prove successful production.
